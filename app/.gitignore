@@ -1,1 +1,19 @@
+# Build
 /build
+/app/build
+
+# Arquivos específicos do Android/IntelliJ
+*.iml
+.gradle/
+.idea/
+local.properties
+.cxx/
+*.keystore
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# System
+.DS_Store
+thumbs.db
